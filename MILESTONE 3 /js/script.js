@@ -1,1 +1,0 @@
-alert("ciao il js funziona correttamente")
